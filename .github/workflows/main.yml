@@ -1,4 +1,4 @@
-name: build sub-store-workers
+name: build storey
 
 on:
   workflow_dispatch:
